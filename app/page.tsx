@@ -102,7 +102,7 @@ const App = () => {
           <button
             type="button"
             onClick={Gerar}
-            className="bg-green-400 text-white py-2 rounded hover:bg-green-600 transition"
+            className="bg-green-400 text-white py-2 rounded hover:bg-green-600 transition cursor-pointer"
           >
             Gerar Link
           </button>
