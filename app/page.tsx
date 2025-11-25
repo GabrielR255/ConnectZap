@@ -84,7 +84,7 @@ const App = () => {
               type="text"
               value={numero}
               onChange={handleNumeroChange}
-              maxLength={15}
+              maxLength={18}
               placeholder="(00) 00000-0000"
               className="border p-2 rounded bg-white text-black"
               required
